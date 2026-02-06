@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.skinnedmeshtransfer",
-  "version": "1.0.0",
-  "displayName": "Unity Systems SkinnedMeshTransfer",
+  "name": "com.unityessentials.systems.skinnedmeshtransfer",
+  "version": "2.0.0",
+  "displayName": "Systems SkinnedMeshTransfer",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
@@ -9,12 +9,12 @@
   "keywords": [],
   "author": {
     "name": "Unity Essentials",
-    "email": null,
-    "url": null
+    "email": "",
+    "url": ""
   },
-  "documentationUrl": null,
-  "changelogUrl": null,
-  "licensesUrl": null,
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
   "samples": [],
   "hideInEditor": true
 }
