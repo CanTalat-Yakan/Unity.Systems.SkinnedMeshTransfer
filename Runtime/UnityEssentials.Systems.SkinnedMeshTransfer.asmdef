@@ -1,9 +1,7 @@
 {
-    "name": "UnityEssentials.SkinnedMeshTransfer.Editor",
+    "name": "UnityEssentials.Systems.SkinnedMeshTransfer",
     "rootNamespace": "UnityEssentials",
-    "references": [
-        "GUID:924353f6ddc896f4a833c8cda62716b1"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
